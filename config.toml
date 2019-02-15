@@ -27,18 +27,8 @@ theme = "tranquilpeak"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 4
-  identifier = "search"
-  name = "Search"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
-  url = "/#search"
-  class = "st-search-show-outputs"
-[[menu.main]]
-  weight = 4
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
 
-
+[author]
+  name = "Sam Oehlert"
+  bio = "Infosec engineer with way too many hobbies"
+  twitter = "samoehlert"
