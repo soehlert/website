@@ -42,10 +42,13 @@ theme = "m10c"
     identifier = "about"
     name = "about"
     url = "/about/"
-    weight = -110
 
   [[menu.main]]
     identifier = "posts"
     name = "blog"
     url = "/posts/"
-    weight = -100
+
+  [[ menu.main ]]
+    identifier = "music"
+    name = "music"
+    url = "https://soundcloud.com/soehlert"
