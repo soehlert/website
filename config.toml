@@ -52,3 +52,8 @@ theme = "m10c"
     identifier = "music"
     name = "music"
     url = "https://soundcloud.com/soehlert"
+
+[imaging]
+  resampleFilter = "box"
+  quality = 75
+  anchor = "smart"
