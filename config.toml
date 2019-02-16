@@ -1,34 +1,13 @@
 baseURL = "http://soehlert.com/"
 languageCode = "en-us"
 title = "Sam Oehlert"
-theme = "tranquilpeak"
-
-[[menu.main]]
-  weight = 0
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
-  weight = 1
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 2
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 3
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+theme = "m10c"
 
 [author]
   name = "Sam Oehlert"
-  bio = "Infosec engineer with way too many hobbies"
-  twitter = "samoehlert"
+  description = "Infosec engineer with way too many hobbies"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/soehlert"
+
