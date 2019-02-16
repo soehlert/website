@@ -22,7 +22,7 @@ theme = "m10c"
 
   [[params.social]]
     name = "linkedin"
-    url = "www.linkedin.com/in/samoehlert"
+    url = "https://www.linkedin.com/in/samoehlert"
 
   [params.style]
     # Sidebar
