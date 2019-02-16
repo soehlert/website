@@ -1,6 +1,12 @@
 ---
 title: Python HTTP Server
-date: 2015-04-01
+date: 2015-04-01T00:00:00.000Z
+categories:
+  - how-to
+tags:
+  - python
+keywords:
+  - python
 ---
 
 ## Problem
