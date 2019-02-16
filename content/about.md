@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2019-02-15
-draft: true
 ---
 ![My dog Jackson](/static/images/jackson.jpg)
 
