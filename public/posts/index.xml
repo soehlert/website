@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sam Oehlert</title>
+    <link>https://soehlert.com/posts/</link>
+    <description>Recent content in Posts on Sam Oehlert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://soehlert.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python HTTP Server</title>
+      <link>https://soehlert.com/posts/pythonhttpserver/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soehlert.com/posts/pythonhttpserver/</guid>
+      <description>Problem I was trying to get BittorrentSync set up on my home server running Centos 6.6, but the BTSync site is set up strangely and I couldn&amp;rsquo;t copy the download link in order to do a quick wget on my server. So that leaves me with the tar.gz on my laptop.
+Attempts Ok I have a few ways to proceed. My first inclination was scp that tarball over to my server and go from there.</description>
+    </item>
+    
+  </channel>
+</rss>
