@@ -35,3 +35,17 @@ theme = "m10c"
     lightColor = "#808080"
     # Title
     lightestColor = "#fff"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "blog"
+    url = "/posts/"
+    weight = -100
