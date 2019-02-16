@@ -30,7 +30,7 @@ theme = "m10c"
     # Background
     darkColor = "#253031"
     # Purple
-    primaryColor = "#990099"
+    primaryColor = "#800080"
     # Description
     lightColor = "#808080"
     # Title
@@ -41,7 +41,7 @@ theme = "m10c"
   [[menu.main]]
     identifier = "about"
     name = "about"
-    url = "/about/"
+    url = "/about"
 
   [[menu.main]]
     identifier = "posts"
