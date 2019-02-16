@@ -1,3 +1,8 @@
+---
+title: Python HTTP Server
+date: April 2, 2015
+---
+
 ## Problem
 I was trying to get BittorrentSync set up on my home server running Centos 6.6, but the BTSync site is set up strangely and I couldn't copy the download link in order to do a quick wget on my server. So that leaves me with the tar.gz on my laptop.
 

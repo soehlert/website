@@ -6,6 +6,7 @@ theme = "m10c"
 [params]
   author = "Sam Oehlert"
   description = "Infosec engineer with way too many hobbies"
+  GitHubUser = "soehlert"
 
   [[params.social]]
     name = "github"
