@@ -1,13 +1,28 @@
-baseURL = "http://soehlert.com/"
+baseURL = "https://soehlert.com/"
 languageCode = "en-us"
 title = "Sam Oehlert"
 theme = "m10c"
 
-[author]
-  name = "Sam Oehlert"
+[params]
+  author = "Sam Oehlert"
   description = "Infosec engineer with way too many hobbies"
 
-[[params.social]]
-  name = "github"
-  url = "https://github.com/soehlert"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/soehlert"
 
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/samoehlert"
+
+  [params.style]
+    # Sidebar
+    darkestColor = "#314c59"
+    # Background
+    darkColor = "#253031"
+    # Purple
+    primaryColor = "#660066"
+    # Description
+    lightColor = "#808080"
+    # Title
+    lightestColor = "#fff"
