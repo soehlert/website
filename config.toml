@@ -35,3 +35,20 @@ theme = "m10c"
     lightColor = "#808080"
     # Title
     lightestColor = "#fff"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "blog"
+    url = "/posts/"
+
+  [[ menu.main ]]
+    identifier = "music"
+    name = "music"
+    url = "https://soundcloud.com/soehlert"
