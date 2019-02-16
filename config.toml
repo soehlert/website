@@ -1,34 +1,29 @@
-baseURL = "http://soehlert.com/"
+baseURL = "https://soehlert.com/"
 languageCode = "en-us"
 title = "Sam Oehlert"
-theme = "tranquilpeak"
+theme = "m10c"
 
-[[menu.main]]
-  weight = 0
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
-  weight = 1
-  identifier = "categories"
-  name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
-[[menu.main]]
-  weight = 2
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 3
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+[params]
+  author = "Sam Oehlert"
+  description = "Infosec engineer with way too many hobbies"
+  GitHubUser = "soehlert"
 
-[author]
-  name = "Sam Oehlert"
-  bio = "Infosec engineer with way too many hobbies"
-  twitter = "samoehlert"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/soehlert"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/samoehlert"
+
+  [params.style]
+    # Sidebar
+    darkestColor = "#314c59"
+    # Background
+    darkColor = "#253031"
+    # Purple
+    primaryColor = "#660066"
+    # Description
+    lightColor = "#808080"
+    # Title
+    lightestColor = "#fff"
