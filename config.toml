@@ -16,6 +16,14 @@ theme = "m10c"
     name = "twitter"
     url = "https://twitter.com/samoehlert"
 
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/samoehlert/"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "www.linkedin.com/in/samoehlert"
+
   [params.style]
     # Sidebar
     darkestColor = "#314c59"
