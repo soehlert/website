@@ -36,6 +36,8 @@ theme = "m10c"
     # Title
     lightestColor = "#fff"
 
+  custom_css = ["css/override.css"]
+
 [menu]
 
   [[menu.main]]
