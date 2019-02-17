@@ -1,8 +1,9 @@
 ---
 title: "About"
 date: 2019-02-15
+draft: true
 ---
-![My dog Jackson](/images/uploads/jackson.jpg)
+![My dog Jackson](/static/images/jackson.jpg)
 
 I find downtime boring and a life without creating to be lacking. I'll also try anything twice. 
 
