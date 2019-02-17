@@ -3,7 +3,7 @@ title: "About"
 date: 2019-02-15
 draft: true
 ---
-![My dog Jackson](/static/images/jackson.jpg)
+{{< bundle-image name="jackson.jpg" alt="My dog Jackson laying on the bed smiling." caption="My dog Jackson">}}
 
 I find downtime boring and a life without creating to be lacking. I'll also try anything twice. 
 
