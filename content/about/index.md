@@ -2,7 +2,8 @@
 title: "About"
 date: 2019-02-15
 ---
-{{<imgresize jackson.jpg "80%">}}
+
+{{< img src="jackson.jpg" alt="my dog Jackson laying in bed smiling">}}
 
 I find downtime boring and a life without creating to be lacking. I'll also try anything twice. 
 
