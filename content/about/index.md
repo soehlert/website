@@ -2,7 +2,7 @@
 title: "About"
 date: 2019-02-15
 ---
-{{< bundle-image name="jackson.jpg" alt="My dog Jackson laying on the bed smiling." caption="My dog Jackson">}}
+{{<imgresize jackson.jpg "80%">}}
 
 I find downtime boring and a life without creating to be lacking. I'll also try anything twice. 
 
