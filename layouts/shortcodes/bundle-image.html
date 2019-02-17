@@ -3,7 +3,7 @@
 {{ with $.Page.Resources.GetMatch (.Get "name") }}
   <figure>
     <a href="{{.RelPermalink}}">
-      <img src="{{ .RelPermalink }} style='width:100%;' border="0" alt="{{$altText}}""/>
+      <img src="{{ .RelPermalink }} style='width:100%;' border='0' alt='{{$altText}}'"/>
       <!-- <img -->
       <!--   srcset=" -->
       <!--     {{ (.Resize "180x").RelPermalink }} 180w, -->
