@@ -66,4 +66,4 @@ theme = "m10c"
   posts = "/:year/:month/:title/"
 
 [blackfriday]
-  hrefTargetBlank = "true"
+  hrefTargetBlank = true
