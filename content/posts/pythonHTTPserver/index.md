@@ -5,8 +5,6 @@ categories:
   - how-to
 tags:
   - python
-keywords:
-  - python
 ---
 
 ## Problem

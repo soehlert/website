@@ -56,3 +56,8 @@ theme = "m10c"
     identifier = "tags"
     name = "tags"
     url = "/tags"
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories"
