@@ -61,3 +61,6 @@ theme = "m10c"
     identifier = "categories"
     name = "categories"
     url = "/categories"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
