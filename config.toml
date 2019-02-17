@@ -29,7 +29,7 @@ theme = "m10c"
     darkestColor = "#314c59"
     # Background
     darkColor = "#253031"
-    # Purple
+    # Accents
     primaryColor = "#800080"
     # Description
     lightColor = "#808080"
@@ -46,14 +46,9 @@ theme = "m10c"
   [[menu.main]]
     identifier = "posts"
     name = "blog"
-    url = "/posts/"
+    url = "/posts"
 
   [[ menu.main ]]
     identifier = "music"
     name = "music"
     url = "https://soundcloud.com/soehlert"
-
-[imaging]
-  resampleFilter = "box"
-  quality = 75
-  anchor = "smart"
