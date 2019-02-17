@@ -24,6 +24,10 @@ theme = "m10c"
     name = "linkedin"
     url = "https://www.linkedin.com/in/samoehlert"
 
+  [[params.social]]
+    name = "soundcloud"
+    url ="https://soundcloud.com/soehlert"
+
   [params.style]
     # Sidebar
     darkestColor = "#314C59"
@@ -48,7 +52,7 @@ theme = "m10c"
     name = "blog"
     url = "/posts"
 
-  [[ menu.main ]]
-    identifier = "music"
-    name = "music"
-    url = "https://soundcloud.com/soehlert"
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags"
