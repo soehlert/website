@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2019-02-15
-draft: true
 ---
 {{< bundle-image name="jackson.jpg" alt="My dog Jackson laying on the bed smiling." caption="My dog Jackson">}}
 
