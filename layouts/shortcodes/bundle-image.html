@@ -3,12 +3,13 @@
 {{ with $.Page.Resources.GetMatch (.Get "name") }}
   <figure>
     <a href="{{.RelPermalink}}">
-      <img
-        srcset="
-          {{ (.Resize "180x").RelPermalink }} 180w,
-          {{ (.Resize "600x").RelPermalink }} 600w,
-          {{ (.Resize "1200x").RelPermalink }} 2x"
-        src="{{ (.Resize "600x").RelPermalink }}" alt="{{$altText}}"/>
+      <img src="{{ .RelPermalink }} style='width:100%;' border="0" alt="{{$altText}}""/>
+      <!-- <img -->
+      <!--   srcset=" -->
+      <!--     {{ (.Resize "180x").RelPermalink }} 180w, -->
+      <!--     {{ (.Resize "600x").RelPermalink }} 600w, -->
+      <!--     {{ (.Resize "1200x").RelPermalink }} 2x" -->
+      <!--   src="{{ (.Resize "600x").RelPermalink }}" alt="{{$altText}}"/> -->
     </a>
     <figcaption><p>{{ $caption }}</p></figcaption>
   </figure>
