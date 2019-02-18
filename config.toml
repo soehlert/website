@@ -67,3 +67,6 @@ theme = "m10c"
 
 [blackfriday]
   hrefTargetBlank = true
+
+[disqus]
+disqusShortname = "samoehlert"
