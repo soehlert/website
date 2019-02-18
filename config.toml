@@ -2,6 +2,7 @@ baseURL = "https://soehlert.com/"
 languageCode = "en-us"
 title = "Sam Oehlert"
 theme = "m10c"
+disqusShortname = "https-soehlert-com"
 
 [params]
   author = "Sam Oehlert"
