@@ -52,3 +52,10 @@ theme = "m10c"
     identifier = "music"
     name = "music"
     url = "https://soundcloud.com/soehlert"
+
+[outputFormats]
+    [outputFormats.PlainTextFile]
+      baseName = "keybase"
+      isPlainText = true
+      mediaType = "text/plain"
+      isHTML = false
