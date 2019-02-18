@@ -5,6 +5,7 @@ categories:
   - how-to
 tags:
   - python
+toc: true
 ---
 
 ## Problem
