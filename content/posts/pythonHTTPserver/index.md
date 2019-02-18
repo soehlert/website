@@ -21,4 +21,4 @@ This won't be ground breaking to everyone, but it was still kind of fun. I just 
 
 This starts a small webserver on port 8000. Then I sshed to my server (which worked for some reason with my key) and did a quick wget. There we go!
 
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
