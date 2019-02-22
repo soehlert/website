@@ -1,7 +1,7 @@
 ---
-title: "Index"
+title: "ZFS"
 date: 2019-02-21T23:01:27-06:00
-draft: true
+draft: false
 tags: ["sysadmin", "zfs"]
 categories: ["how-to", "setup"]
 type: "post"
