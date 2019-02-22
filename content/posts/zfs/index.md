@@ -1,6 +1,6 @@
 ---
 title: "ZFS"
-date: 2019-02-21T23:01:27-06:00
+date: 2015-05-24T23:01:27-06:00
 draft: false
 tags: ["sysadmin", "zfs"]
 categories: ["how-to", "setup"]
