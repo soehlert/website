@@ -45,6 +45,8 @@ Currently, selinux support is not implemented, so you'll need to turn that off f
 ```bash
 $ sudo setenforce 0
 $ sudo vim /etc/selinux/config
+```
+
 Now let's create our zpool. To see what disks are installed you can run this command (this will help you know which ones are meant for the zpool)
 
 ```bash
