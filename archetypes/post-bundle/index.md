@@ -1,6 +1,5 @@
 ---
-#title: "{{ replace .TranslationBaseName "-" " " | title }}"
-title: "{{ .File.Path | $.pathDir  }}"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 tags: []
