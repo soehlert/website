@@ -1,9 +1,8 @@
 ---
 title: "Centos7 Owncloud"
 date: 2016-02-29T22:56:53-06:00
-draft: true
-tags: ["owncloud", "centos"]
-categories: ["how-to"]
+tags: ["owncloud", "centos", "sysadmin"]
+categories: ["how-to", "setup"]
 type: "post"
 toc: true
 body_classes: "blog"
