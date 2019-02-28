@@ -16,16 +16,16 @@ The install instructions are pretty short, but we'll also take a look at a littl
 ## Installation
 Alright here we go:
 
-Install Prerequisites
-Grab repo file
-Install
-Give access to owncloud directory to run as apache user
-Enable and start Mariadb
-Enable and start httpd
-One hardening step real quick...secure the mariadb installation
-Log into mariadb
-Create the database
-Allow the clouddb user access to the database we just created on localhost only (no need to allow remote login here). Make sure to change the password in '' to something better. That's the clouddb user's password.
+1. Install Prerequisites
+2. Grab repo file
+3. Install
+4. Give access to owncloud directory to run as apache user
+5. Enable and start Mariadb
+6. Enable and start httpd
+7. One hardening step real quick...secure the mariadb installation
+8. Log into mariadb
+9. Create the database
+10. Allow the clouddb user access to the database we just created on localhost only (no need to allow remote login here). Make sure to change the password in '' to something better. That's the clouddb user's password.
 
 ```bash
 yum -y install wget mariadb-server php-mysql php-pecl-apc
