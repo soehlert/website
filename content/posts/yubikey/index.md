@@ -22,9 +22,16 @@ I have found a few different ways to get things working again, though I still ha
 Unplug/replug yubikey. Sometimes this will get the ball rolling again.
 
 Find and kill the current running process. Start it back up. (Possibly also unplug/replug) 
+
 1. `ps -ef | grep gpg` 
-2. `kill -9 $pid_of_gpg` # insert the pid you found in the last step. Kill -9 seems drastic, but kill/killall does not actually kill the process in this state. 
-3. `gpg --card-status` #added benefit of testing to make sure card is properly seenB0
+
+Insert the pid you found in the last step. Kill -9 seems drastic, but kill/killall does not actually kill the process in this state. 
+
+2. `kill -9 $pid_of_gpg`
+
+added benefit of testing to make sure card is properly seen
+
+3. `gpg --card-status`
 
 Open new tab/window in your terminal emulator. This has the benefit of setting up a new ssh agent, loading the key again.
 
