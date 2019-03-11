@@ -28,7 +28,7 @@ Installing stow is super easy, as it just requires either a: (OSX)
 $ brew install stow
 ```
 
-(centos - with the EPEL repos) 
+(centos - with the EPEL repo) 
 
 ```bash
 $ yum install stow
