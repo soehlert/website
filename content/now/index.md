@@ -1,8 +1,7 @@
 ---
-title: "Now"
+title: "What I'm Doing Now"
 date: 2019-09-22
 ---
-What I'm Doing Now
 
 + Travel: I recently got back from a trip to South Dakota and am gearing up for a trip to Seattle next
 + Listening to: IDLES, Grandaddy, David Bowie and Chance the Rapper
