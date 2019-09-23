@@ -1,2 +1,6 @@
 [context.production.environment]
   HUGO_VERSION = "v0.54.0"
+
+[[redirects]]
+  from = "/"
+  to = "/now"
